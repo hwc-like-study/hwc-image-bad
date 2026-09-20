@@ -1,2 +1,2 @@
-# hwc-image-bad
+# hwc-image-bed
 我的图床仓库
